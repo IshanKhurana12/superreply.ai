@@ -1,0 +1,313 @@
+[
+    {
+      "name": "John Doe",
+      "age": 20,
+      "marks": 85,
+      "avgMarks": 80,
+      "rollNumber": "A102",
+      "class": "10th Grade",
+      "city": "New York",
+      "attendance": "95%"
+    },
+    {
+      "name": "Jane Smith",
+      "age": 19,
+      "marks": 78,
+      "avgMarks": 74,
+      "rollNumber": "B203",
+      "class": "10th Grade",
+      "city": "Los Angeles",
+      "attendance": "89%"
+    },
+    {
+      "name": "Emily Johnson",
+      "age": 18,
+      "marks": 92,
+      "avgMarks": 88,
+      "rollNumber": "C304",
+      "class": "10th Grade",
+      "city": "Chicago",
+      "attendance": "97%"
+    },
+    {
+      "name": "Michael Brown",
+      "age": 20,
+      "marks": 75,
+      "avgMarks": 73,
+      "rollNumber": "D405",
+      "class": "10th Grade",
+      "city": "Houston",
+      "attendance": "90%"
+    },
+    {
+      "name": "Sophia Davis",
+      "age": 17,
+      "marks": 88,
+      "avgMarks": 85,
+      "rollNumber": "E506",
+      "class": "10th Grade",
+      "city": "Phoenix",
+      "attendance": "93%"
+    },
+    {
+      "name": "James Wilson",
+      "age": 21,
+      "marks": 82,
+      "avgMarks": 79,
+      "rollNumber": "F607",
+      "class": "10th Grade",
+      "city": "Philadelphia",
+      "attendance": "96%"
+    },
+    {
+      "name": "Isabella Moore",
+      "age": 19,
+      "marks": 77,
+      "avgMarks": 76,
+      "rollNumber": "G708",
+      "class": "10th Grade",
+      "city": "San Antonio",
+      "attendance": "91%"
+    },
+    {
+      "name": "Alexander Taylor",
+      "age": 18,
+      "marks": 90,
+      "avgMarks": 86,
+      "rollNumber": "H809",
+      "class": "10th Grade",
+      "city": "San Diego",
+      "attendance": "94%"
+    },
+    {
+      "name": "Mia Anderson",
+      "age": 17,
+      "marks": 85,
+      "avgMarks": 82,
+      "rollNumber": "I910",
+      "class": "10th Grade",
+      "city": "Dallas",
+      "attendance": "98%"
+    },
+    {
+      "name": "William Martinez",
+      "age": 20,
+      "marks": 79,
+      "avgMarks": 75,
+      "rollNumber": "J101",
+      "class": "10th Grade",
+      "city": "San Jose",
+      "attendance": "87%"
+    },
+    {
+      "name": "Olivia Garcia",
+      "age": 18,
+      "marks": 87,
+      "avgMarks": 84,
+      "rollNumber": "K202",
+      "class": "10th Grade",
+      "city": "Austin",
+      "attendance": "92%"
+    },
+    {
+      "name": "Noah Rodriguez",
+      "age": 19,
+      "marks": 81,
+      "avgMarks": 78,
+      "rollNumber": "L303",
+      "class": "10th Grade",
+      "city": "Jacksonville",
+      "attendance": "89%"
+    },
+    {
+      "name": "Emma Lee",
+      "age": 17,
+      "marks": 89,
+      "avgMarks": 86,
+      "rollNumber": "M404",
+      "class": "10th Grade",
+      "city": "Fort Worth",
+      "attendance": "95%"
+    },
+    {
+      "name": "Lucas Perez",
+      "age": 20,
+      "marks": 73,
+      "avgMarks": 71,
+      "rollNumber": "N505",
+      "class": "10th Grade",
+      "city": "Columbus",
+      "attendance": "88%"
+    },
+    {
+      "name": "Charlotte Clark",
+      "age": 18,
+      "marks": 91,
+      "avgMarks": 88,
+      "rollNumber": "O606",
+      "class": "10th Grade",
+      "city": "San Francisco",
+      "attendance": "97%"
+    },
+    {
+      "name": "Liam Walker",
+      "age": 19,
+      "marks": 84,
+      "avgMarks": 81,
+      "rollNumber": "P707",
+      "class": "10th Grade",
+      "city": "Indianapolis",
+      "attendance": "93%"
+    },
+    {
+      "name": "Amelia Hall",
+      "age": 17,
+      "marks": 88,
+      "avgMarks": 85,
+      "rollNumber": "Q808",
+      "class": "10th Grade",
+      "city": "Charlotte",
+      "attendance": "94%"
+    },
+    {
+      "name": "Ethan Allen",
+      "age": 18,
+      "marks": 79,
+      "avgMarks": 76,
+      "rollNumber": "R909",
+      "class": "10th Grade",
+      "city": "Seattle",
+      "attendance": "89%"
+    },
+    {
+      "name": "Harper Young",
+      "age": 19,
+      "marks": 86,
+      "avgMarks": 83,
+      "rollNumber": "S101",
+      "class": "10th Grade",
+      "city": "Denver",
+      "attendance": "92%"
+    },
+    {
+      "name": "Benjamin King",
+      "age": 20,
+      "marks": 82,
+      "avgMarks": 78,
+      "rollNumber": "T202",
+      "class": "10th Grade",
+      "city": "El Paso",
+      "attendance": "90%"
+    },
+    {
+      "name": "Avery Wright",
+      "age": 17,
+      "marks": 93,
+      "avgMarks": 89,
+      "rollNumber": "U303",
+      "class": "10th Grade",
+      "city": "Detroit",
+      "attendance": "96%"
+    },
+    {
+      "name": "Daniel Scott",
+      "age": 18,
+      "marks": 78,
+      "avgMarks": 74,
+      "rollNumber": "V404",
+      "class": "10th Grade",
+      "city": "Washington",
+      "attendance": "87%"
+    },
+    {
+      "name": "Abigail Green",
+      "age": 19,
+      "marks": 88,
+      "avgMarks": 85,
+      "rollNumber": "W505",
+      "class": "10th Grade",
+      "city": "Boston",
+      "attendance": "94%"
+    },
+    {
+      "name": "Henry Baker",
+      "age": 20,
+      "marks": 81,
+      "avgMarks": 78,
+      "rollNumber": "X606",
+      "class": "10th Grade",
+      "city": "Nashville",
+      "attendance": "91%"
+    },
+    {
+      "name": "Ella Adams",
+      "age": 17,
+      "marks": 89,
+      "avgMarks": 86,
+      "rollNumber": "Y707",
+      "class": "10th Grade",
+      "city": "Memphis",
+      "attendance": "95%"
+    },
+    {
+      "name": "Jack Thompson",
+      "age": 18,
+      "marks": 80,
+      "avgMarks": 76,
+      "rollNumber": "Z808",
+      "class": "10th Grade",
+      "city": "Portland",
+      "attendance": "89%"
+    },
+    {
+      "name": "Grace Parker",
+      "age": 19,
+      "marks": 91,
+      "avgMarks": 88,
+      "rollNumber": "AA909",
+      "class": "10th Grade",
+      "city": "Las Vegas",
+      "attendance": "96%"
+    },
+    {
+      "name": "Oliver Roberts",
+      "age": 20,
+      "marks": 77,
+      "avgMarks": 73,
+      "rollNumber": "BB101",
+      "class": "10th Grade",
+      "city": "Oklahoma City",
+      "attendance": "87%"
+    },
+    {
+      "name": "Scarlett Turner",
+      "age": 17,
+      "marks": 92,
+      "avgMarks": 89,
+      "rollNumber": "CC202",
+      "class": "10th Grade",
+      "city": "Louisville",
+      "attendance": "95%"
+    },
+    {
+      "name": "David White",
+      "age": 18,
+      "marks": 83,
+      "avgMarks": 79,
+      "rollNumber": "DD303",
+      "class": "10th Grade",
+      "city": "Baltimore",
+      "attendance": "90%"
+    },
+    {
+      "name": "Victoria Hughes",
+      "age": 19,
+      "marks": 86,
+      "avgMarks": 83,
+      "rollNumber": "EE404",
+      "class": "10th Grade",
+      "city": "Milwaukee",
+      "attendance": "94%"
+    }
+  ]
+  
